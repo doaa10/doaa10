@@ -1,10 +1,9 @@
 ### Duaa Elsayed 
 
-https://github.com/doaa10/doaa10/blob/main/Github1.png 
-Hello, I'm Duaa from Egypt, passionate about web development. I find joy in mastering languages and frameworks, with React being a particular favorite. My expertise extends to wireframing and UI/UX design.
-
 ### Hi there 👋, my name is Duaa
 #### i am a front-end web developer 
+![i am a front-end web developer ](https://github.com/doaa10/doaa10/blob/main/Github1.png)
+
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills:  REACT / JS / HTML / CSS 
@@ -19,5 +18,7 @@ Skills:  REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=doaa10&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/doaa10)  
+
+  
 
 
