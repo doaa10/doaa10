@@ -1,5 +1,4 @@
 ### Duaa Elsayed 
-![Uploading Github.png…]()
 
 Hello, I'm Duaa from Egypt, passionate about web development. I find joy in mastering languages and frameworks, with React being a particular favorite. My expertise extends to wireframing and UI/UX design.
 
@@ -21,6 +20,3 @@ Skills:  REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/doaa10)  
 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doaa10)](https://github.com/anuraghazra/github-readme-stats)
