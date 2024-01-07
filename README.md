@@ -16,7 +16,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=doaa10&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/doaa10)  
 
   
 
