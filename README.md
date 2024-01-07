@@ -5,8 +5,8 @@
 ##### Hello, I'm Duaa from Egypt, passionate about web development. I find joy in mastering languages and frameworks,
 ##### with React being a particular favorite. My expertise extends to wireframing, UI, and UX design.
 ### Skills:
-        *⚛ React
-        *💻 Html , css , js
+          ⚛ React
+          💻 Html , css , js
 
 - 🔭 I’m currently working on this page. 
 
