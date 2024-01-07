@@ -1,12 +1,15 @@
 # Hi there 👋, my name is Duaa Elsayed
-## i am a front-end web developer 
+## I am a front-end web developer 
 ![i am a front-end web developer ](https://github.com/doaa10/doaa10/blob/main/Github.png)
 
-#### Hello, I'm Duaa from Egypt, passionate about web development. I find joy in mastering languages and frameworks,
-#### with React being a particular favorite. My expertise extends to wireframing, UI, and UX design.
+#### Hello, I'm Duaa from Egypt, passionate about web development. I find joy in mastering languages and frameworks, with React being a particular favorite. My expertise extends to wireframing, UI, and UX design.
 ### Skills:
           ⚛ React
-          💻 Html , css , js
+          💻 Html 
+              css 
+              java script
+              data structures & algorithms 
+              
 
 
 
