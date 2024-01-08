@@ -1,4 +1,3 @@
-
 <h1 align="center">
  Hi there 👋, my name is Duaa Elsayed
  I am a front-end web developer 
