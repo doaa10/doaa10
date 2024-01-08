@@ -4,11 +4,12 @@
 <h2 align="center">
   I am a front-end web developer 
 </h2>
-<img align="center">
+<p align="center">
+ 
+          ![i am a front-end web developer ](https://github.com/doaa10/doaa10/blob/main/Github.png)
 
-         ![i am a front-end web developer ](https://github.com/doaa10/doaa10/blob/main/Github.png)
+</p>
 
-</img>
 
 #### Hello, I'm Duaa from Egypt, passionate about web development. I find joy in mastering languages and frameworks, with React being a particular favorite. My expertise extends to wireframing, UI, and UX design.
 ### Skills:
