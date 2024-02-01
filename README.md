@@ -22,7 +22,7 @@
 
 ### connect with me :
  - 📫 How to reach me: edoaa7059@gmail.com
- - 🧾 Resume : https://drive.google.com/file/d/1LpbyBzYe48Nrysbh8J81Qk3LFGE60QZp/view?usp=sharing 
+ - 🧾 Resume : https://drive.google.com/file/d/1KcJ8V73ro-RF3A2-fTXJfzHvAIHPxYza/view?usp=sharing
  - 
 
 
