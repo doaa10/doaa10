@@ -23,8 +23,7 @@
 
 ### connect with me :
  - 📫 How to reach me: edoaa7059@gmail.com
- - 🧾 Resume : https://drive.google.com/file/d/1KcJ8V73ro-RF3A2-fTXJfzHvAIHPxYza/view?usp=sharing
- - 
+ - 🧾 Resume : https://drive.google.com/file/d/1dGtHzZ1IiOd_2cvk4c6as87eT1cMSfOq/view?usp=sharing 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/doaa10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/doaa-sh10/)  
