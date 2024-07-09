@@ -17,7 +17,8 @@
           ⚛ React js
           💻 Html 
               css 
-              java script
+              javascript
+              Typescript
               data structures & algorithms 
               
 
