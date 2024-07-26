@@ -10,7 +10,6 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Duaa Elsayed</h1>
 <h3 align="center">Hello, I'm Duaa from Egypt, passionate about web development. I find joy in mastering languages and frameworks, with React being a particular favorite. My expertise extends to wireframing, UI, and UX design.</h3>
 
 - 💬 Ask me about **React , Next js , Javascript**
