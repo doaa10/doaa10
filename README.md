@@ -10,9 +10,9 @@
 
 </p>
 
-<h3 align="center">Hello, I'm Duaa from Egypt, passionate about web development. I find joy in mastering languages and frameworks, with React being a particular favorite. My expertise extends to wireframing, UI, and UX design.</h3>
+<h3 align="center">Hello, I'm Duaa from Egypt, passionate about web development. I find joy in mastering languages and frameworks, with React and Next js being a particular favorites. My expertise extends to wireframing, UI, and UX design.</h3>
 
-- 💬 Ask me about **React , Next js , Javascript**
+- 💬 Ask me about **React , Next js , Javascript ,Typescript**
 
 - 📫 How to reach me **edoaa7059@gmail.com**
 
