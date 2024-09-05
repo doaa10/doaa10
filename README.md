@@ -2,7 +2,7 @@
  Hi there 👋, my name is Duaa Elsayed
 </h1>
 <h2 align="center">
-  I am a front-end web developer (Next js)
+  I am a front-end web developer (Next js) 
 </h2>
 <p align="center">
  
