@@ -52,7 +52,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaa10&" alt="doaa10" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaa10&show_icons=true&locale=en" alt="doaa10" /></p>
 
-![Your Contribution Graph](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true)
 
 
 
