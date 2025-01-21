@@ -54,6 +54,11 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doaa10&show_icons=true&locale=en&layout=compact" alt="doaa10" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaa10&show_icons=true&locale=en" alt="doaa10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaa10&" alt="doaa10" /></p>
 
 
   
