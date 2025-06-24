@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **edoaa7059@gmail.com**
 
-- 📄 Know about my experiences (Resume) https://drive.google.com/file/d/1eE1PNULbVc68VyllGt0cLxIfO7NRkz4-/view?usp=sharing
+- 📄 Know about my experiences (Resume) https://drive.google.com/file/d/1F2U-1cVSCobVET_MYjH8BgIGih2axFwP/view?usp=sharing
 # 💫 About Me:
 
 
