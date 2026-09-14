@@ -4,11 +4,7 @@
 <h2 align="center">
   I am a front-end web developer (Next js) 
 </h2>
-<p align="center">
- 
-  ![i am a front-end web developer ](https://github.com/doaa10/doaa10/blob/main/Github.png)
 
-</p>
 
 <h3 align="center">Hello, I'm Duaa from Egypt, passionate about web development. I find joy in mastering languages and frameworks, with React and Next js being a particular favorites. My expertise extends to wireframing, UI, and UX design.</h3>
 
