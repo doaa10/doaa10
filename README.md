@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:edoaa7059@gmail.com"><img src="https://img.shields.io/badge/Email-edoaa7059%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/doaa-sh10"><img src="https://img.shields.io/badge/LinkedIn-doaa--sh10-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="CV_LINK_HERE"><img src="https://img.shields.io/badge/Resume-View%20CV-2EA44F?style=flat&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="[https://drive.google.com/file/d/1ZJjynVHZOOZ6Q2K6oIQxFdzxki2m4nxQ/view?usp=sharing](https://drive.google.com/file/d/1ZJjynVHZOOZ6Q2K6oIQxFdzxki2m4nxQ/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-View%20CV-2EA44F?style=flat&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <img src="https://img.shields.io/badge/Location-Alexandria%2C%20Egypt-555555?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
@@ -20,7 +20,7 @@ Full-stack engineer turned delivery lead with **2+ years** on a production ride-
 - 🧭 Product manager for new features: epics, user stories, specs, UI/API docs, and UI/UX reviews
 - 🎨 Google UX Design Professional Certificate (Google – Coursera)
 - 🎓 B.Sc. Computer Science, Damanhour University (GPA 3.5)
-- 📄 Full experience in my **[resume](CV_LINK_HERE)**
+- 📄 Full experience in my **[resume](https://drive.google.com/file/d/1ZJjynVHZOOZ6Q2K6oIQxFdzxki2m4nxQ/view?usp=sharing)**
 
 ---
 
