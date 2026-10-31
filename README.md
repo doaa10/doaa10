@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:edoaa7059@gmail.com"><img src="https://img.shields.io/badge/Email-edoaa7059%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/doaa-sh10"><img src="https://img.shields.io/badge/LinkedIn-doaa--sh10-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://drive.google.com/file/d/1HhPy87CnJCHyNKbYrP5MVA79wSZ5JDv_/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-2EA44F?style=flat&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1P2NkmaBh-uIxYX-ZCYJYkx-L4KT1fLz7/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View%20CV-2EA44F?style=flat&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <img src="https://img.shields.io/badge/Location-Alexandria%2C%20Egypt-555555?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
@@ -20,7 +20,7 @@ Full-stack engineer turned delivery lead with **2+ years** on a production ride-
 - 🧭 Product manager for new features: epics, user stories, specs, UI/API docs, and UI/UX reviews
 - 🎨 Google UX Design Professional Certificate (Google – Coursera)
 - 🎓 B.Sc. Computer Science, Damanhour University (GPA 3.5)
-- 📄 Full experience in my **[resume](https://drive.google.com/file/d/1HhPy87CnJCHyNKbYrP5MVA79wSZ5JDv_/view?usp=sharing)**
+- 📄 Full experience in my **[resume](https://drive.google.com/file/d/1P2NkmaBh-uIxYX-ZCYJYkx-L4KT1fLz7/view?usp=drive_link)**
 
 ---
 
@@ -35,7 +35,8 @@ Full-stack engineer turned delivery lead with **2+ years** on a production ride-
 | **Frontend Developer → Frontend Team Lead** (promoted after 5 months) | Jul 2024 – Jan 2025 |
 
 - Lead delivery for a cross-functional team (frontend, backend, QA, DevOps, design) across **20+ sprints** — stand-ups, Azure DevOps boards, sprint & release planning.
-- Own release quality: QA test plans and manual testing, keeping **3 enterprise pilots** on track.
+- Own release quality: QA test plans and manual testing, keeping **3 enterprise pilots** on track via bug and status tracking, with **2 commute studies** about to start.
+- Built Node.js scripts and Azure DevOps queries that track work-item status, generate patch notes and test reports, and measure delivery metrics.
 - Define new features end to end — feature docs, epics, user stories, and UI/UX reviews that align designs and requirements with user needs.
 - Owned the product lifecycle for payments, communities, driver onboarding, and B2B impact reporting.
 - Built the web app from week one with Next.js, TypeScript, and Tailwind CSS; implemented Supabase Auth, Persona identity verification, and Stripe Subscriptions & Connect payouts.
@@ -86,6 +87,7 @@ Full-stack engineer turned delivery lead with **2+ years** on a production ride-
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 **Databases**
 
@@ -113,9 +115,28 @@ Full-stack engineer turned delivery lead with **2+ years** on a production ride-
 ![Wireframing & Prototyping](https://img.shields.io/badge/Wireframing_%26_Prototyping-A259FF?style=for-the-badge&logoColor=white)
 ![Usability Heuristics](https://img.shields.io/badge/Usability_Heuristics-1ABCFE?style=for-the-badge&logoColor=white)
 
-**Delivery & Tools**
+**Product Management**
+
+![Requirements Gathering](https://img.shields.io/badge/Requirements_Gathering-0E7C86?style=for-the-badge&logoColor=white)
+![User Stories & Acceptance Criteria](https://img.shields.io/badge/User_Stories_%26_Acceptance_Criteria-2D9CDB?style=for-the-badge&logoColor=white)
+![Feature Specs & API Docs](https://img.shields.io/badge/Feature_Specs_%26_API_Docs-6C5CE7?style=for-the-badge&logoColor=white)
+![Backlog Prioritization](https://img.shields.io/badge/Backlog_Prioritization-E17055?style=for-the-badge&logoColor=white)
+![UAT](https://img.shields.io/badge/UAT-00B894?style=for-the-badge&logoColor=white)
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-FDA7DF?style=for-the-badge&logoColor=black)
+
+**Delivery & Leadership**
 
 ![Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Sprint & Release Planning](https://img.shields.io/badge/Sprint_%26_Release_Planning-0078D7?style=for-the-badge&logoColor=white)
+![Release Management](https://img.shields.io/badge/Release_Management-5F27CD?style=for-the-badge&logoColor=white)
+![Delivery Metrics & Reporting](https://img.shields.io/badge/Delivery_Metrics_%26_Reporting-10AC84?style=for-the-badge&logoColor=white)
+![Team Leadership](https://img.shields.io/badge/Team_Leadership-EE5253?style=for-the-badge&logoColor=white)
+![Mentoring](https://img.shields.io/badge/Mentoring-FF9F43?style=for-the-badge&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code_Review-222F3E?style=for-the-badge&logoColor=white)
+
+**Tools**
+
+![Azure Boards](https://img.shields.io/badge/Azure_Boards_%26_Queries-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
